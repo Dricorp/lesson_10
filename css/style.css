@@ -224,11 +224,11 @@ body {
 }
 .benefits__button {
 	display: inline-block;
-	margin-right: 94px;
+	margin-right: 90px;
 }
 .benefits__button span {
 	background: url("../img/benefits/star.png") 45px 11px no-repeat;
-	padding: 10px 72px;
+	padding: 10px 70px;
 }
 .button-nonecolor {
 }
