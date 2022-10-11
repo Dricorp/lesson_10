@@ -16,6 +16,7 @@ body {
 	padding: 50px 0 0 0;
 }
 .main__image {
+	max-width: 100%;
 }
 .main__text {
 	margin: -560px 0 0 850px;
