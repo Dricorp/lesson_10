@@ -1,0 +1,359 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+/*=====================*/
+body {
+	max-width: 1230px;
+	margin: 0 auto;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.3;
+	color: #1e212c;
+}
+.main {
+	margin-bottom: 212px;
+	padding: 50px 0 0 0;
+}
+.main__image {
+}
+.main__text {
+	margin: -560px 0 0 850px;
+}
+.main__title {
+	margin-bottom: 40px;
+}
+.title {
+}
+.main__h2 {
+	margin-bottom: 8px;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.main__h1 {
+}
+.main__list {
+}
+.main__items {
+	margin-bottom: 22px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+}
+.main__items li {
+	background: url("./img/icons/Vector.png") 0 5px no-repeat;
+	padding: 0 0 0px 31px;
+}
+.main__items li:not(:last-child) {
+	margin-bottom: 10px;
+}
+.main__button {
+}
+.button-orange {
+	display: inline-block;
+	text-align: center;
+	padding: 0px 32px;
+	width: 161px;
+	height: 44px;
+	background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	border-radius: 4px;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 44px;
+	letter-spacing: 0.5px;
+}
+
+.button-orange span {
+	display: inline-block;
+	color: #ffffff;
+}
+
+.main__link {
+}
+
+/*==========Teachers========*/
+.teachers {
+}
+
+.teachers__title {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 0 60px 0;
+}
+.title {
+}
+.main__h2 {
+}
+.main__h1 {
+}
+.teachers__button {
+	margin: 25px 0 0 647px;
+}
+.button-nonecolor {
+	align-items: center;
+	padding: 0px 40px;
+	border: 1px solid #ff3f3a;
+	border-radius: 4px;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 52px;
+	letter-spacing: 0.5px;
+}
+.button-nonecolor span {
+	color: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	text-align: center;
+	color: #f75e05;
+}
+.teachers__link {
+}
+.teachers__block {
+	margin-bottom: 180px;
+	float: left;
+	width: 50%;
+}
+.teachers__container {
+}
+.teach-1,
+.teach-2,
+.teach-3,
+.teach-4,
+.teach-5,
+.teach-6 {
+	width: 100%;
+	height: 100%;
+	border: 1px solid #e5e8ed;
+	box-shadow: 0px 80px 80px -20px rgba(154, 156, 165, 0.08), 0px 30px 24px -10px rgba(154, 156, 165, 0.05),
+		0px 12px 10px -6px rgba(154, 156, 165, 0.04), 0px 4px 4px -4px rgba(30, 33, 44, 0.03);
+	border-radius: 4px;
+}
+.teach-1,
+.teach-2,
+.teach-3 {
+	margin-right: 30px;
+}
+.teach-1,
+.teach-2,
+.teach-4,
+.teach-5 {
+	margin-bottom: 30px;
+}
+
+.teachers__img {
+	padding: 0 8px 0px 0;
+}
+.teachers__text {
+}
+.teachers__direction {
+	margin-bottom: 20px;
+	display: inline-block;
+	padding: 1px 8px;
+	background: #03cea4;
+	border-radius: 4px;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #ffffff;
+	text-align: center;
+}
+.teachers__direction span {
+	text-align: center;
+}
+.teachers__theme {
+	margin-bottom: 20px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #1e212c;
+	max-width: 325px;
+}
+.teachers__price {
+	display: inline-block;
+	margin-right: 8px;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 1.5;
+	color: #ff4242;
+}
+.teachers__name {
+	display: inline-block;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 1.5;
+	color: #787a80;
+	background: url("../img/icons/divider.png") 0 4px no-repeat;
+	padding-left: 8px;
+}
+
+.teachers-column {
+	display: inline-block;
+	vertical-align: top;
+}
+.teach-2 {
+}
+.teach-3 {
+}
+.teach-4 {
+}
+.teach-5 {
+}
+.teach-6 {
+}
+
+/*==========benefits==========*/
+
+.benefits {
+	margin-bottom: 180px;
+}
+.benefits__title {
+	text-align: center;
+	margin-bottom: 60px;
+}
+.title {
+}
+.main__h2 {
+}
+.main__h1 {
+}
+.benefits__link {
+	margin-bottom: 182px;
+}
+.benefits__button {
+	display: inline-block;
+	margin-right: 94px;
+}
+.benefits__button span {
+	background: url("../img/benefits/star.png") 45px 11px no-repeat;
+	padding: 10px 72px;
+}
+.button-nonecolor {
+}
+.benefits__link-button {
+}
+.benefits__link-grey {
+	display: inline-block;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 1.6;
+	align-items: center;
+	text-align: center;
+	color: #9a9ca5;
+}
+.benefits__link-grey:not(:last-child) {
+	margin-right: 112px;
+}
+.feedback {
+}
+.benefits__support {
+}
+.benefits__support span {
+	background: url("../img/benefits/stroke.png") 0 3px no-repeat;
+	padding: 0px 25px;
+}
+.online {
+}
+.benefits__online span {
+	background: url("../img/benefits/folder.png") 0 3px no-repeat;
+	padding: 0px 25px;
+}
+.community {
+}
+.benefits__community span {
+	background: url("../img/benefits/messsage.png") 0 3px no-repeat;
+	padding: 0px 25px;
+}
+.benefits__text {
+}
+.benefits__h2 {
+	margin-bottom: 24px;
+	font-weight: 900;
+	font-size: 32px;
+	line-height: 1.3;
+	color: #1e212c;
+}
+.benefits__p {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+	max-width: 38%;
+}
+.benefits__img {
+	margin: -330px 0 0 650px;
+}
+
+/*===============glasses===================*/
+
+.glasses {
+	max-width: 810px;
+	margin: 0 auto;
+}
+.glasses__title {
+	margin-bottom: 92px;
+	line-height: 1.3;
+	align-items: center;
+	color: #1e212c;
+}
+.glasses__img {
+	max-width: 100%;
+	margin-bottom: 60px;
+}
+.glasses__text-main {
+	margin-bottom: 24px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #1e212c;
+}
+.glasses__text {
+	margin-bottom: 48px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+}
+.glasses__text p:first-child {
+	margin-bottom: 36px;
+}
+.glasses__text-quotes {
+	margin-bottom: 48px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #1e212c;
+}
+.glasses__text-quotes p {
+	background: url("../img/icons/quotes.png") 0 0 no-repeat;
+
+	padding-left: 58px;
+}
+.glasses__text-list {
+	margin-bottom: 24px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+}
+.glasses__list {
+	margin-bottom: 24px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+}
+.glasses__list-ul li {
+	background: url("../img/icons/Vector.png") 0 4px no-repeat;
+	padding-left: 36px;
+}
+.glasses__list-ul li:not(:last-child) {
+	margin-bottom: 4px;
+}
+.glasses__final-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+}
