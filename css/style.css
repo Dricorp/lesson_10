@@ -26,7 +26,7 @@ body {
 }
 .title {
 }
-.main__h2 {
+.title__h2 {
 	margin-bottom: 8px;
 	font-weight: 700;
 	font-size: 16px;
@@ -34,7 +34,7 @@ body {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
-.main__h1 {
+.title__h1 {
 }
 .main__list {
 }
@@ -73,7 +73,7 @@ body {
 	color: #ffffff;
 }
 
-.main__link {
+.button-orange__link {
 }
 
 /*==========Teachers========*/
@@ -87,9 +87,9 @@ body {
 }
 .title {
 }
-.main__h2 {
+.title__h2 {
 }
-.main__h1 {
+.title__h1 {
 }
 .teachers__button {
 	margin: 25px 0 0 647px;
@@ -109,7 +109,7 @@ body {
 	text-align: center;
 	color: #f75e05;
 }
-.teachers__link {
+.button-nonecolor__link {
 }
 .teachers__block {
 	margin-bottom: 180px;
@@ -143,12 +143,12 @@ body {
 	margin-bottom: 30px;
 }
 
-.teachers__img {
+.teach-1__img {
 	padding: 0 8px 0px 0;
 }
-.teachers__text {
+.teach-1__text {
 }
-.teachers__direction {
+.teachers-column__direction {
 	margin-bottom: 20px;
 	display: inline-block;
 	padding: 1px 8px;
@@ -160,10 +160,10 @@ body {
 	color: #ffffff;
 	text-align: center;
 }
-.teachers__direction span {
+.teachers-column span {
 	text-align: center;
 }
-.teachers__theme {
+.teachers-column__theme {
 	margin-bottom: 20px;
 	font-weight: 700;
 	font-size: 20px;
@@ -171,7 +171,7 @@ body {
 	color: #1e212c;
 	max-width: 325px;
 }
-.teachers__price {
+.teachers-column__price {
 	display: inline-block;
 	margin-right: 8px;
 	font-weight: 700;
@@ -179,7 +179,7 @@ body {
 	line-height: 1.5;
 	color: #ff4242;
 }
-.teachers__name {
+.teachers-column__name {
 	display: inline-block;
 	font-weight: 400;
 	font-size: 18px;
@@ -215,9 +215,9 @@ body {
 }
 .title {
 }
-.main__h2 {
+.title_h2 {
 }
-.main__h1 {
+.title_h1 {
 }
 .benefits__link {
 	margin-bottom: 182px;
@@ -232,7 +232,7 @@ body {
 }
 .button-nonecolor {
 }
-.benefits__link-button {
+.button-nonecolor__link-button {
 }
 .benefits__link-grey {
 	display: inline-block;
@@ -248,41 +248,41 @@ body {
 }
 .feedback {
 }
-.benefits__support {
+.feedbeck__link {
 }
-.benefits__support span {
+.feedback__link span {
 	background: url("../img/benefits/stroke.png") 0 3px no-repeat;
 	padding: 0px 25px;
 }
 .online {
 }
-.benefits__online span {
+.online__link span {
 	background: url("../img/benefits/folder.png") 0 3px no-repeat;
 	padding: 0px 25px;
 }
 .community {
 }
-.benefits__community span {
-	background: url("../img/benefits/messsage.png") 0 3px no-repeat;
+.community__link span {
+	background: url("../img/benefits/messmain.main.png") 0 3px no-repeat;
 	padding: 0px 25px;
 }
 .benefits__text {
 }
-.benefits__h2 {
+.text__h2 {
 	margin-bottom: 24px;
 	font-weight: 900;
 	font-size: 32px;
 	line-height: 1.3;
 	color: #1e212c;
 }
-.benefits__p {
+.text__p {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.6;
 	color: #424551;
 	max-width: 38%;
 }
-.benefits__img {
+.text__img {
 	margin: -330px 0 0 650px;
 }
 
@@ -302,7 +302,7 @@ body {
 	max-width: 100%;
 	margin-bottom: 60px;
 }
-.glasses__text-main {
+.glasses__text-main.main {
 	margin-bottom: 24px;
 	font-weight: 700;
 	font-size: 20px;
